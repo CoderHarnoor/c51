@@ -1,0 +1,38 @@
+h1{
+    color:blueviolet;
+}
+.header{
+    background-color:antiquewhite;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+h2{
+    text-align:center;
+    color:darkorchid;
+}
+p{
+    color:fuchsia;
+}
+
+body{
+    background-color: #800080;
+
+}
+body{
+    background-image:url("https://cooldigital.photography/wp-content/uploads/2013/08/Sunset-.jpg");
+  background-size: 100% 100%;
+
+}
+
+div{
+border:5px double purple
+}
